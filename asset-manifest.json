@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crown-bank/static/css/main.0ed12076.chunk.css",
-    "main.js": "/crown-bank/static/js/main.079f5021.chunk.js",
-    "main.js.map": "/crown-bank/static/js/main.079f5021.chunk.js.map",
+    "main.js": "/crown-bank/static/js/main.dab19812.chunk.js",
+    "main.js.map": "/crown-bank/static/js/main.dab19812.chunk.js.map",
     "runtime-main.js": "/crown-bank/static/js/runtime-main.b8dad986.js",
     "runtime-main.js.map": "/crown-bank/static/js/runtime-main.b8dad986.js.map",
     "static/js/2.51cd6248.chunk.js": "/crown-bank/static/js/2.51cd6248.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b8dad986.js",
     "static/js/2.51cd6248.chunk.js",
     "static/css/main.0ed12076.chunk.css",
-    "static/js/main.079f5021.chunk.js"
+    "static/js/main.dab19812.chunk.js"
   ]
 }
