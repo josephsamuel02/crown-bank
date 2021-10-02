@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crown-bank/static/css/main.33152102.chunk.css",
-    "main.js": "/crown-bank/static/js/main.10ac3443.chunk.js",
-    "main.js.map": "/crown-bank/static/js/main.10ac3443.chunk.js.map",
+    "main.css": "/crown-bank/static/css/main.0ed12076.chunk.css",
+    "main.js": "/crown-bank/static/js/main.079f5021.chunk.js",
+    "main.js.map": "/crown-bank/static/js/main.079f5021.chunk.js.map",
     "runtime-main.js": "/crown-bank/static/js/runtime-main.b8dad986.js",
     "runtime-main.js.map": "/crown-bank/static/js/runtime-main.b8dad986.js.map",
     "static/js/2.51cd6248.chunk.js": "/crown-bank/static/js/2.51cd6248.chunk.js",
     "static/js/2.51cd6248.chunk.js.map": "/crown-bank/static/js/2.51cd6248.chunk.js.map",
     "index.html": "/crown-bank/index.html",
-    "static/css/main.33152102.chunk.css.map": "/crown-bank/static/css/main.33152102.chunk.css.map",
+    "static/css/main.0ed12076.chunk.css.map": "/crown-bank/static/css/main.0ed12076.chunk.css.map",
     "static/js/2.51cd6248.chunk.js.LICENSE.txt": "/crown-bank/static/js/2.51cd6248.chunk.js.LICENSE.txt",
     "static/media/App.css": "/crown-bank/static/media/pexels-the-lazy-artist-gallery-999267.562a84ba.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b8dad986.js",
     "static/js/2.51cd6248.chunk.js",
-    "static/css/main.33152102.chunk.css",
-    "static/js/main.10ac3443.chunk.js"
+    "static/css/main.0ed12076.chunk.css",
+    "static/js/main.079f5021.chunk.js"
   ]
 }
